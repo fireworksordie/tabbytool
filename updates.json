@@ -5,6 +5,10 @@
         {
           "version": "2.1",
           "update_link": "https://fireworksordie.github.io/tabbytool/TabbyTool-2.1.xpi"
+        },
+        {
+          "version": "3.5",
+          "update_link": "https://fireworksordie.github.io/tabbytool/TabbyTool-3.5.xpi"
         }
       ]
     }
