@@ -13,6 +13,10 @@
         {
           "version": "3.6",
           "update_link": "https://fireworksordie.github.io/tabbytool/tabbytool-3.6.xpi"
+        },
+        {
+          "version": "3.7",
+          "update_link": "https://fireworksordie.github.io/tabbytool/tabbytool-3.7.xpi"
         }
       ]
     }
